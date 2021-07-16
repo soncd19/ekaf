@@ -91,12 +91,12 @@ handle_callback(Callback, Pid)->
     end.
 
 join_group_if_not_present(PG, Pid)->
-    Pids = pg2:get_local_members(PG),
+    Pids = pg:get_local_members(PG),
     case lists:member(Pid, Pids) of
         true ->
             ok;
         _ ->
-            pg2:join(PG, Pid)
+            pg:join(PG, Pid)
     end.
 
 pick_first_matching([], _, DefaultWorker)->

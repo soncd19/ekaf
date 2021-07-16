@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b431f17b-6362-4a40-83e7-6e1c427cbf73" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ekaf_server.erl" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekaf_server.erl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ekaf_picker.erl" beforeDir="false" afterPath="$PROJECT_DIR$/src/ekaf_picker.erl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626426760844</updated>
       <workItem from="1626426762463" duration="8000" />
-      <workItem from="1626426780629" duration="127000" />
+      <workItem from="1626426780629" duration="676000" />
     </task>
     <servers />
   </component>
